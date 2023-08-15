@@ -3,6 +3,7 @@ Introduction to Artificial Intelligence(2023-1)
 ICPBL Project by Joonho Kang and Wonjeong Lim
 
 - Goal : Given well cropped and aligned images of non masked faces, develop a deep learning model that can classify whether a person in each image is wearing a mask or not. (Binary classification task)
+- Worked in Google Colab
   
 **1) Data Generation** : Use MaskTheFace tool (https://github.com/aqeelanwar/MaskTheFace)
     
