@@ -1,4 +1,4 @@
-# Mask Face Recognition Project
+# Face Mask Recognition Project
 Introduction to Artificial Intelligence(2023-1)
 ICPBL Project by Joonho Kang and Wonjeong Lim
 
