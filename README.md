@@ -23,3 +23,9 @@ ICPBL Project by Joonho Kang and Wonjeong Lim
   - training loss and training accuracy
   - validation loss and validation accuracy
   - ROC curve and AUC
+
+**6) Test**
+  - with our friends' photos (22 images)
+  - lr = 0.01, learning rate scheduler: LambdaLR, pretrained = True
+  - eval_loss: 0.61138, eval_acc: 0.81818
+
